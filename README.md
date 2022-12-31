@@ -4,3 +4,4 @@ This app works only with Super73 S2 and RX. By pressing the button, your bike sw
 
 Some other features are on the way!
 
+Absolutely no data is collected by the app. It connects to your bike and changes the mode, that's all!
